@@ -1,0 +1,8 @@
+# Model Compression — Repositories
+# Add GitHub or HuggingFace URLs, one per line.
+
+# Quantization
+https://github.com/ggml-org/llama.cpp?tab=readme-ov-file
+
+# Pruning
+

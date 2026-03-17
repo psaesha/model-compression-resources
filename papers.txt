@@ -1,0 +1,33 @@
+# Model Compression Papers
+# Add one URL per line (arXiv or DOI). Lines starting with # are ignored.
+# Commit this file → GitHub Action regenerates README.md and papers.bib automatically.
+
+# Quantization
+https://arxiv.org/abs/2211.10438
+https://arxiv.org/abs/1712.05877v1
+https://arxiv.org/abs/2410.16144
+https://arxiv.org/abs/2208.07339
+https://arxiv.org/abs/2305.14314
+https://arxiv.org/abs/1712.05877v1
+https://arxiv.org/abs/2208.07339
+https://arxiv.org/abs/2602.13289
+https://arxiv.org/abs/2601.22787
+https://arxiv.org/abs/2509.15455
+https://arxiv.org/abs/2603.04162
+https://arxiv.org/abs/2503.05936
+https://arxiv.org/abs/2502.15799
+https://arxiv.org/abs/2502.15799
+https://arxiv.org/abs/2405.14852
+https://arxiv.org/abs/2401.06118
+https://arxiv.org/abs/2306.00978
+https://arxiv.org/abs/2210.17323
+https://arxiv.org/abs/2402.04396
+10.18653/v1/2024.findings-emnlp.901
+https://arxiv.org/abs/2405.13155
+
+# Pruning
+
+
+# Knowledge Distillation
+
+# LoRA / Low-Rank

@@ -1,0 +1,1 @@
+https://github.com/ggml-org/llama.cpp?tab=readme-ov-file	{"name": "ggml-org/llama.cpp", "description": "LLM inference in C/C++", "stars": 98347, "url": "https://github.com/ggml-org/llama.cpp?tab=readme-ov-file", "kind": "github"}
