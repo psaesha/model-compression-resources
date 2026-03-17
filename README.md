@@ -1,6 +1,6 @@
 # Model Compression Papers and Repositories
 
-> Generated from `papers.txt` and `repos.txt` · 18 papers · 1 repos · 2026-03-17
+> Generated from `papers.txt` and `repos.txt` · 20 papers · 1 repos · 2026-03-17
 > Add URLs to `papers.txt` or `repos.txt` and commit — Action regenerates this automatically.
 
 ## Quantization
@@ -29,3 +29,10 @@
 ### Repositories
 
 - [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp?tab=readme-ov-file) — LLM inference in C/C++
+
+## Pruning
+
+### Papers
+
+19. [LLM Pruning and Distillation in Practice: The Minitron Approach](https://arxiv.org/abs/2408.11796) — Sharath Turuvekere Sreenivas, Saurav Muralidharan, Raviraj Joshi et al. (2024) 
+20. [LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference](https://arxiv.org/abs/2407.14057) — Qichen Fu, Minsik Cho, Thomas Merth et al. (2024) 
