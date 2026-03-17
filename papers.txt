@@ -26,6 +26,8 @@ https://arxiv.org/abs/2402.04396
 https://arxiv.org/abs/2405.13155
 
 # Pruning
+https://arxiv.org/abs/2408.11796
+https://arxiv.org/abs/2407.14057
 
 
 # Knowledge Distillation
